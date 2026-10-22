@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% include base_path %}
+<main class="project-page">
+  <header class="project-header">
+    <h1 class="project-title">{{ page.title }}</h1>
+    {% if page.authors %}
+      <p class="project-authors">{{ page.authors }}</p>
+    {% endif %}
+    {% if page.affiliations %}
+      <p class="project-affiliations">{{ page.affiliations }}</p>
+    {% endif %}
+    {% if page.venue %}
+      <p class="project-venue">{{ page.venue }}</p>
+    {% endif %}
+    {% if page.summary_note %}
+      <p class="project-summary-note">{{ page.summary_note }}</p>
+    {% endif %}
+    <div class="project-links">
+      {% if page.paperurl %}
+        <a class="project-btn" href="{{ page.paperurl }}">Paper</a>
+      {% endif %}
+      {% if page.citation %}
+        <a class="project-btn" href="#bibtex">BibTeX</a>
+      {% endif %}
+    </div>
+  </header>
+
+  <article class="project-content">
+    {{ content }}
+  </article>
+
+  <p class="project-credit">Page design adapted from <a href="https://github.com/RomanHauksson/academic-project-astro-template">Roman Hauksson's academic project page template</a> (CC BY-SA 4.0).</p>
+</main>

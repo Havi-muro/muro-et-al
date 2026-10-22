@@ -1,27 +1,29 @@
 ---
-layout: single
+layout: project
 title: 'Hedgerow mapping with high resolution satellite imagery to support policy initiatives at national level'
 permalink: /papers/hedgerow-mapping/
 excerpt: 'Hedgerows shelter wildlife, store carbon and protect fields from erosion, yet Germany has no complete map of where they are. Using monthly 3 m satellite images and a deep-learning model, we mapped hedgerows across the German agricultural landscape: they cover about 2.3 % of farmland, roughly 372,000 km in total, and are concentrated in the north and north-west.'
 date: 2025-10-01
-venue: 'Remote Sensing of Environment, 328, 114870'
+venue: 'Remote Sensing of Environment, 328, 114870 (2025)'
 paperurl: 'https://doi.org/10.1016/j.rse.2025.114870'
 citation: 'Muro, J., Blickensdörfer, L., Don, A., Köber, A., Asam, S., Schwieder, M., & Erasmi, S. (2025). "Hedgerow mapping with high resolution satellite imagery to support policy initiatives at national level." <i>Remote Sensing of Environment</i>, 328, 114870.'
-author_profile: false
+authors: 'Javier Muro, Lukas Blickensdörfer, Axel Don, Anna Köber, Sarah Asam, Marcel Schwieder, Stefan Erasmi'
+affiliations: 'Thünen Institute of Farm Economics · Geography Department, Humboldt Universität zu Berlin · Thünen Institute of Climate-Smart Agriculture · German Remote Sensing Data Center (DLR)'
+summary_note: 'Plain-language summary. The full article is available from the publisher.'
 read_time: true
 paper_slug: hedgerow-mapping
 paper_page: true
 ---
 
-**Authors:** Javier Muro, Lukas Blickensdörfer, Axel Don, Anna Köber, Sarah Asam, Marcel Schwieder, Stefan Erasmi
-
-*This is a plain-language summary. The full article is available from the publisher.*
+<div class="project-highlight" markdown="1">
 
 ## Why this matters
 
 Hedgerows, the lines of shrubs and trees between fields, shelter insects, birds and bats, store carbon in their wood and in the soil, and slow down wind and water so that soil stays on the field.
 
 Germany has lost about half of its hedgerows in the last 70 years, as fields were merged and enlarged. Three European policies now ask for them to be protected and planted: the Common Agricultural Policy, the LULUCF regulation, which counts the carbon they store, and the Nature Restoration Law, which sets restoration targets for farmland. All three need something that did not exist: a complete, consistent and repeatable map of where hedgerows are.
+
+</div>
 
 ## What we did
 
@@ -63,3 +65,17 @@ The model learned from reference data in Schleswig-Holstein, the state with the 
 ## Where the map stops
 
 It answers national and regional questions, not the question of what grows in a particular field: for that, higher-resolution imagery and a visit remain better. Recently cut hedgerows, and hedgerows within a few metres of a forest, are the hardest to recognise.
+
+## BibTeX
+
+```bibtex
+@article{muro2025hedgerow,
+  title   = {Hedgerow mapping with high resolution satellite imagery to support policy initiatives at national level},
+  author  = {Muro, Javier and Blickensdörfer, Lukas and Don, Axel and Köber, Anna and Asam, Sarah and Schwieder, Marcel and Erasmi, Stefan},
+  journal = {Remote Sensing of Environment},
+  volume  = {328},
+  pages   = {114870},
+  year    = {2025},
+  doi     = {10.1016/j.rse.2025.114870}
+}
+```
