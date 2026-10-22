@@ -1,0 +1,42 @@
+---
+---
+
+.cv-positions {
+  margin: 0 0 1.5rem 1.1rem;
+  padding: 0;
+}
+
+.cv-positions li {
+  margin-bottom: 0.55rem;
+}
+
+.cv-map {
+  height: 26rem;
+  margin: 1.25rem 0 0.75rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  z-index: 0;
+  background: #f4f4f5;
+}
+
+.cv-map:empty {
+  display: none;
+}
+
+html[data-theme="dark"] .cv-map {
+  background: #27272a;
+}
+
+.leaflet-container {
+  font: inherit;
+}
+
+.leaflet-popup-content {
+  line-height: 1.5;
+}
+
+@media (max-width: 37.5em) {
+  .cv-map {
+    height: 20rem;
+  }
+}

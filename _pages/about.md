@@ -1,9 +1,12 @@
 ---
 permalink: /
-title: "Papers by Muro et al."
+title: "Javier Muro"
 author_profile: false
+cv_map: true
 ---
 
-This site collects research papers and preprints by Muro et al. Browse the [papers]({{ site.baseurl }}/publications/) page for publication details and links to available PDFs.
+Javier Muro studies agricultural landscapes with satellite imagery: hedgerows, grassland biodiversity, land-use intensity and the carbon that farmland stores. He is Assistant Professor at IE University, in Segovia, and Research Associate at the Center for Remote Sensing of Land Surfaces, in Bonn, after three years as a researcher at the Thünen Institute in Braunschweig.
 
-Publication records can be added as Markdown files in the `_publications/` directory. Put PDFs and supplementary files in `files/` and link to them from each record.
+[Papers]({{ '/publications/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [ORCID](https://orcid.org/0000-0001-5127-8983)
+
+{% include cv.md %}

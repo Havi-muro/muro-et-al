@@ -23,3 +23,9 @@
 {% if page.layout == "project" %}
 <link rel="stylesheet" href="{{ base_path }}/assets/css/project.css">
 {% endif %}
+{% if page.cv_map %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/cv.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+<script src="{{ base_path }}/assets/js/cv-map.js" defer></script>
+{% endif %}
