@@ -1,0 +1,32 @@
+[
+  {
+    "name": "fig01",
+    "file": "fig01.png",
+    "page": 2,
+    "width": 1489,
+    "height": 1985,
+    "bytes": 1544878,
+    "kind": "raster",
+    "caption": "Location of the Kilombero catchment and wetland areas."
+  },
+  {
+    "name": "fig02",
+    "file": "fig02.png",
+    "page": 5,
+    "width": 1489,
+    "height": 1985,
+    "bytes": 1092110,
+    "kind": "raster",
+    "caption": "Methodological workflow for LST time series analysis."
+  },
+  {
+    "name": "fig03",
+    "file": "fig03.png",
+    "page": 7,
+    "width": 1489,
+    "height": 1985,
+    "bytes": 1243133,
+    "kind": "raster",
+    "caption": "Spatial patterns of LST trends in the Kilombero catchment."
+  }
+]

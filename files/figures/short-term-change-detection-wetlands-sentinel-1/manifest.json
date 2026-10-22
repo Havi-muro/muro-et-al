@@ -1,0 +1,32 @@
+[
+  {
+    "name": "fig01",
+    "file": "fig01.png",
+    "page": 2,
+    "width": 1489,
+    "height": 2105,
+    "bytes": 480780,
+    "kind": "raster",
+    "caption": "Location of the study sites in southern Spain and southern France."
+  },
+  {
+    "name": "fig02",
+    "file": "fig02.png",
+    "page": 4,
+    "width": 1489,
+    "height": 2105,
+    "bytes": 940598,
+    "kind": "raster",
+    "caption": "Sentinel-1 change detection workflow."
+  },
+  {
+    "name": "fig03",
+    "file": "fig03.png",
+    "page": 6,
+    "width": 1489,
+    "height": 2105,
+    "bytes": 425923,
+    "kind": "raster",
+    "caption": "Short-term change detection results in wetland areas."
+  }
+]

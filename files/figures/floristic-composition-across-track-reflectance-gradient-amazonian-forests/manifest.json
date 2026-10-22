@@ -1,0 +1,32 @@
+[
+  {
+    "name": "fig01",
+    "file": "fig01.png",
+    "page": 2,
+    "width": 1489,
+    "height": 1985,
+    "bytes": 796999,
+    "kind": "raster",
+    "caption": "Location of study areas in Peruvian and Brazilian Amazonia."
+  },
+  {
+    "name": "fig02",
+    "file": "fig02.png",
+    "page": 4,
+    "width": 1489,
+    "height": 1985,
+    "bytes": 238153,
+    "kind": "raster",
+    "caption": "Across-track reflectance gradient in Landsat imagery."
+  },
+  {
+    "name": "fig03",
+    "file": "fig03.png",
+    "page": 6,
+    "width": 1489,
+    "height": 1985,
+    "bytes": 590319,
+    "kind": "raster",
+    "caption": "Relationship between floristic composition and reflectance patterns."
+  }
+]

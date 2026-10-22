@@ -1,0 +1,32 @@
+[
+  {
+    "name": "fig01",
+    "file": "fig01.png",
+    "page": 2,
+    "width": 1489,
+    "height": 2105,
+    "bytes": 474120,
+    "kind": "raster",
+    "caption": "Study area of the Kilombero catchment in Tanzania."
+  },
+  {
+    "name": "fig02",
+    "file": "fig02.png",
+    "page": 4,
+    "width": 1489,
+    "height": 2105,
+    "bytes": 486931,
+    "kind": "raster",
+    "caption": "Classification workflow and change detection approach."
+  },
+  {
+    "name": "fig03",
+    "file": "fig03.png",
+    "page": 6,
+    "width": 1489,
+    "height": 2105,
+    "bytes": 475509,
+    "kind": "raster",
+    "caption": "LULC change patterns in the Kilombero catchment."
+  }
+]
