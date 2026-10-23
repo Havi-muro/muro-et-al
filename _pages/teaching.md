@@ -31,6 +31,26 @@ excerpt: "Courses taught at IE University, guest teaching in Spain, and thesis s
   </li>
 </ul>
 
+### University of Bonn
+
+<ul class="teaching-list">
+  <li>
+    <p class="teaching-list__title">Introduction to Modern Methods of Optical Remote Sensing</p>
+    <p class="teaching-list__desc">Optical remote sensing from its physical principles to modern sensors and the processing workflows built around them.</p>
+    <p class="teaching-list__meta">University of Bonn · Bachelor in Physical Geography · 2022–23</p>
+  </li>
+  <li>
+    <p class="teaching-list__title">Introduction to Time Series Analyses in Remote Sensing</p>
+    <p class="teaching-list__desc">Working with satellite image time series to describe and interpret change in land surface properties.</p>
+    <p class="teaching-list__meta">University of Bonn · Bachelor in Physical Geography · 2020–21</p>
+  </li>
+  <li>
+    <p class="teaching-list__title">Introduction to Vegetation Geography</p>
+    <p class="teaching-list__desc">An overview of global vegetation patterns and the environmental controls that shape them, from climate and soils to disturbance.</p>
+    <p class="teaching-list__meta">University of Bonn · Bachelor in Physical Geography · 2020–21</p>
+  </li>
+</ul>
+
 ### Guest teaching (Erasmus+ staff mobility)
 
 <ul class="teaching-list">
