@@ -30,13 +30,23 @@ html[data-theme="dark"] .project-page {
 }
 
 .project-meta {
-  margin: -0.9rem 0 1.5rem;
+  display: inline-block;
+  margin: -0.75rem 0 1.5rem;
+  padding: 0.2rem 0.8rem;
+  border-radius: 999px;
+  background: #f4f4f5;
   font-size: 0.9375rem;
-  color: #71717a;
+  line-height: 1.5;
+  color: #3f3f46;
+}
+
+.project-meta .fa-clock {
+  margin-right: 0.35rem;
 }
 
 html[data-theme="dark"] .project-meta {
-  color: #a1a1aa;
+  background: #27272a;
+  color: #e4e4e7;
 }
 
 .project-authors {
