@@ -56,7 +56,39 @@ html[data-theme="dark"] .paper-list__meta {
 }
 
 .teaching-list li {
-  margin-bottom: 1.25rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 12rem;
+  gap: 0.25rem 1.25rem;
+  align-items: start;
+  margin-bottom: 1.5rem;
+}
+
+.teaching-item__img {
+  width: 100%;
+  height: 8rem;
+  object-fit: cover;
+  border-radius: 0.4rem;
+}
+
+.image-credits {
+  margin-top: 2.5rem;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  color: #71717a;
+}
+
+html[data-theme="dark"] .image-credits {
+  color: #a1a1aa;
+}
+
+@media (max-width: 37.5em) {
+  .teaching-list li {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .teaching-item__img {
+    height: 9rem;
+  }
 }
 
 .teaching-list__title {
