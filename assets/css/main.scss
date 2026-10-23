@@ -47,3 +47,38 @@
 html[data-theme="dark"] .paper-list__meta {
   color: #a1a1aa;
 }
+
+.teaching-list,
+.thesis-list {
+  margin: 0 0 1.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.teaching-list li {
+  margin-bottom: 1.25rem;
+}
+
+.teaching-list__title {
+  margin: 0 !important;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.teaching-list__desc {
+  margin: 0.15rem 0 0.25rem !important;
+}
+
+.teaching-list__meta {
+  margin: 0 !important;
+  font-size: 0.9rem;
+  color: #71717a;
+}
+
+html[data-theme="dark"] .teaching-list__meta {
+  color: #a1a1aa;
+}
+
+.thesis-list li {
+  margin-bottom: 0.5rem;
+}
