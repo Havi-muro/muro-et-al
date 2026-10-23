@@ -8,6 +8,7 @@ date: 2020-03-25
 venue: "Remote Sensing"
 paperurl: "https://doi.org/10.3390/rs12071057"
 citation: "Frank Thonfeld, Stefanie Steinbach, Javier Muro, Fridah Kirimi. (2020). \"Long-Term Land Use/Land Cover Change Assessment of the Kilombero Catchment in Tanzania Using Random Forest Classification and Robust Change Vector Analysis\". <i>Remote Sensing</i>."
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "long-term-land-use-land-cover-change-kilombero-catchment" | first %}

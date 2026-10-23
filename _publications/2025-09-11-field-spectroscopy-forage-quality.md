@@ -8,6 +8,7 @@ date: 2025-09-11
 venue: 'Ecological Informatics, 92, 103426'
 paperurl: 'https://doi.org/10.1016/j.ecoinf.2025.103426'
 citation: 'Männer, F. A., Muro, J., Dubovyk, O., Ferner, J., Guuroh, R. T., Knox, N. M., Schmidtlein, S., & Linstädter, A. (2025). "Field spectroscopy and machine learning successfully predict grassland forage quality and quantity across climate zones." <i>Ecological Informatics</i>, 92, 103426.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "field-spectroscopy-forage-quality" | first %}

@@ -8,6 +8,7 @@ date: 2021-03-10
 venue: 'Remote Sensing in Ecology and Conservation, 7(3), 430–444'
 paperurl: 'https://doi.org/10.1002/rse2.199'
 citation: 'Cisneros-Araujo, P., Ramirez-Lopez, M., Juffe-Bignoli, D., Fensholt, R., Muro, J., Mateo-Sánchez, M. C., & Burgess, N. D. (2021). "Remote sensing of wildlife connectivity networks and priority locations for conservation in the Southern Agricultural Growth Corridor (SAGCOT) in Tanzania." <i>Remote Sensing in Ecology and Conservation</i>, 7(3), 430–444.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "sagcot-elephant-connectivity" | first %}

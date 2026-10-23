@@ -8,6 +8,7 @@ date: 2025-08-11
 venue: 'Landscape Ecology, 40, 170'
 paperurl: 'https://doi.org/10.1007/s10980-025-02186-x'
 citation: 'Meyer, S. N., Muro, J., Wöllauer, S., Schwarz, L.-M., Männer, F. A., Dubovyk, O., & Linstädter, A. (2025). "Land-use intensity effects on the biodiversity-ecosystem functioning relationship in semi-natural grasslands at management-relevant spatial scales." <i>Landscape Ecology</i>, 40, 170.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "land-use-intensity-bef-grasslands" | first %}

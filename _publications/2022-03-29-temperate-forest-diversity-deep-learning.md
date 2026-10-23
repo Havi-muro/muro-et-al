@@ -8,6 +8,7 @@ date: 2022-03-29
 venue: 'Remote Sensing, 14(7), 1631'
 paperurl: 'https://doi.org/10.3390/rs14071631'
 citation: 'Hoffmann, J., Muro, J., & Dubovyk, O. (2022). "Predicting Species and Structural Diversity of Temperate Forests with Satellite Remote Sensing and Deep Learning." <i>Remote Sensing</i>, 14(7), 1631.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "temperate-forest-diversity-deep-learning" | first %}

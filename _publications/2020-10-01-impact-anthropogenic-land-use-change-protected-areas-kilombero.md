@@ -8,6 +8,7 @@ date: 2020-10-01
 venue: "ISPRS Journal of Photogrammetry and Remote Sensing"
 paperurl: "https://doi.org/10.1016/j.isprsjprs.2020.07.019"
 citation: "Thonfeld, F., Steinbach, S., Muro, J., Hentze, K., Games, I., Näschen, K., Kauzeni, P.F. (2020). \"The impact of anthropogenic land use change on the protected areas of the Kilombero catchment, Tanzania.\" <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, 168, 41-55."
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "impact-anthropogenic-land-use-change-protected-areas-kilombero" | first %}

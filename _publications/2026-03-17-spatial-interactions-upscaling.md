@@ -8,6 +8,7 @@ date: 2026-03-17
 venue: 'Methods in Ecology and Evolution, 17, 1671-1687'
 paperurl: 'https://doi.org/10.1111/2041-210X.70281'
 citation: 'Boesing, A. L., Le Provost, G., Neyret, M., Linstädter, A., Muro, J., Müller, J., Jung, K., Fischer, M., Lange, M., Dubovyk, O., Magdon, P., Bolliger, R., Leimer, S., Boch, S., Renner, S., Kleinebecker, T., Hamer, U., Klaus, V. H., Wilcke, W., & Manning, P. (2026). "Accounting for spatial interactions in the upscaling of ecosystem services." <i>Methods in Ecology and Evolution</i>, 17(5), 1671-1687.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "spatial-interactions-upscaling" | first %}

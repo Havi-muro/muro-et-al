@@ -8,6 +8,7 @@ date: 2019-12-01
 venue: "City and Environment Interactions"
 paperurl: "https://doi.org/10.1016/j.cacint.2020.100029"
 citation: "Akinyemi, F.O., Ikanyeng, M., Muro, J. (2019). \"Land cover change effects on land surface temperature trends in an African urbanizing dryland region.\" <i>City and Environment Interactions</i>, 4, 100029."
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "land-cover-change-effects-land-surface-temperature-african-dryland" | first %}

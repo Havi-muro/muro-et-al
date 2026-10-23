@@ -8,6 +8,7 @@ date: 2026-05-27
 venue: 'Agriculture, Ecosystems & Environment, 410, 110475'
 paperurl: 'https://doi.org/10.1016/j.agee.2026.110475'
 citation: 'Meyer, S. N., Nößler, F., Buzhdygan, O., May, F., Schwarz, L.-M., Niedersen, J. C., Muro, J., Dubovyk, O., Tietjen, B., & Linstädter, A. (2026). "Spatial scale dependence of plant functional diversity and its response to land-use intensity in grassland farming systems." <i>Agriculture, Ecosystems & Environment</i>, 410, 110475.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "spatial-scale-functional-diversity" | first %}

@@ -8,6 +8,7 @@ date: 2016-09-01
 venue: "ISPRS Journal of Photogrammetry and Remote Sensing"
 paperurl: "https://doi.org/10.1016/j.isprsjprs.2016.06.016"
 citation: "Javier Muro, Jasper Van doninck, Hanna Tuomisto, Mark A. Higgins, Gabriel M. Moulatlet, Kalle Ruokolainen. (2016). \"Floristic composition and across-track reflectance gradient in Landsat images over Amazonian forests\". <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>."
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "floristic-composition-across-track-reflectance-gradient-amazonian-forests" | first %}

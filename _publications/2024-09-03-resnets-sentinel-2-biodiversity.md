@@ -8,6 +8,7 @@ date: 2024-09-03
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 17, 17349–17370'
 paperurl: 'https://doi.org/10.1109/JSTARS.2024.3454271'
 citation: 'Dieste, Á. G., Argüello, F., Heras, D. B., Magdon, P., Linstädter, A., Dubovyk, O., & Muro, J. (2024). "ResNeTS: A ResNet for Time Series Analysis of Sentinel-2 Data Applied to Grassland Plant-Biodiversity Prediction." <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 17, 17349–17370.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "resnets-sentinel-2-biodiversity" | first %}

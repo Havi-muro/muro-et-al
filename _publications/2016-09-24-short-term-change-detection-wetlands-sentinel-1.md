@@ -8,6 +8,7 @@ date: 2016-09-24
 venue: "Remote Sensing"
 paperurl: "https://doi.org/10.3390/rs8100795"
 citation: "Javier Muro, Morton Canty, Knut Conradsen, Christian Huttich, Allan Aasbjerg Nielsen, Henning Skriver, Florian Remy, Adrian Strauch, Frank Thonfeld, Gunter Menz. (2016). \"Short-Term Change Detection in Wetlands Using Sentinel-1 Time Series\". <i>Remote Sensing</i>."
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "short-term-change-detection-wetlands-sentinel-1" | first %}

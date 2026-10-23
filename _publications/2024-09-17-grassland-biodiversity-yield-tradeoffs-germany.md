@@ -8,6 +8,7 @@ date: 2024-09-17
 venue: 'Communications Earth & Environment, 5, 514'
 paperurl: 'https://doi.org/10.1038/s43247-024-01685-0'
 citation: 'Schulz, D., Stetter, C., Muro, J., Spekker, J., Börner, J., Cord, A. F., & Finger, R. (2024). "Trade-offs between grassland plant biodiversity and yields are heterogenous across Germany." <i>Communications Earth & Environment</i>, 5, 514.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "grassland-biodiversity-yield-tradeoffs-germany" | first %}

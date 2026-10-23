@@ -8,6 +8,7 @@ date: 2025-10-01
 venue: 'Remote Sensing of Environment, 328, 114870'
 paperurl: 'https://doi.org/10.1016/j.rse.2025.114870'
 citation: 'Muro, J., Blickensdörfer, L., Don, A., Köber, A., Asam, S., Schwieder, M., & Erasmi, S. (2025). "Hedgerow mapping with high resolution satellite imagery to support policy initiatives at national level." <i>Remote Sensing of Environment</i>, 328, 114870.'
+read_time: true
 ---
 
 {% assign paper = site.pages | where: "paper_slug", "hedgerow-mapping" | first %}
