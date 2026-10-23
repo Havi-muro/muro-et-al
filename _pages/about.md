@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /
 title: "Javier Muro"
 author_profile: false
