@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "Javier Muro"
 author_profile: false
@@ -9,4 +9,4 @@ Javier Muro studies agricultural landscapes with satellite imagery: hedgerows, g
 
 [Papers]({{ '/publications/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }}) · [ORCID](https://orcid.org/0000-0001-5127-8983)
 
-{% include cv.md %}
+{% include cv.html %}
