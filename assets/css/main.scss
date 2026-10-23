@@ -36,3 +36,14 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+.paper-list__meta {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.875rem;
+  color: #71717a;
+}
+
+html[data-theme="dark"] .paper-list__meta {
+  color: #a1a1aa;
+}
