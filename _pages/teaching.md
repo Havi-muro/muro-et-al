@@ -19,6 +19,14 @@ excerpt: "Courses taught at IE University, guest teaching in Spain, and thesis s
   </li>
   <li>
     <div class="teaching-item__body">
+      <p class="teaching-list__title">Machine Learning II</p>
+      <p class="teaching-list__desc">A deeper pass through the models behind modern machine learning, from unsupervised learning and dimension reduction to trees, bagging, boosting and nearest neighbours, implemented in Python.</p>
+      <p class="teaching-list__meta">IE University · Master in Business Analytics and Data Science · 2026–27</p>
+    </div>
+    <img class="teaching-item__img" src="/muro-et-al/images/teaching/machine-learning-ii.png" alt="Ensemble of decision trees forming a random forest" loading="lazy">
+  </li>
+  <li>
+    <div class="teaching-item__body">
       <p class="teaching-list__title">Programming for Data Management and Analysis</p>
       <p class="teaching-list__desc">A hands-on introduction to Python for students with no coding background, focused on writing clean, reusable code to load, clean and analyse real business datasets.</p>
       <p class="teaching-list__meta">IE University · Dual Degree in Business Administration and Data and Business Analytics · 2025–26, 2026–27</p>
@@ -128,4 +136,4 @@ At the University of Bonn I supervised Bachelor's and Master's theses in Geograp
   <li><strong>Johanna Grünmeier</strong> – Subsurface structure of talus slopes and block slopes exemplified by electrical resistivity tomography in the high Andes, Agua Negra, Argentina (second examiner).</li>
 </ul>
 
-<p class="image-credits">Course images, from Wikimedia Commons: k-means clustering by Cosmia Nebula (CC BY-SA 4.0), Python screen by MikeRun (CC BY-SA 4.0), Robonaut by Robert Markowitz, NASA (public domain), QGIS screenshot by Emvee (CC BY 4.0), Sentinel-2 image of Brazil by ESA/Copernicus (CC BY-SA 3.0 IGO), NDVI map by Tomchenko Olha (CC BY 4.0), savanna by BMKME (CC BY-SA 4.0), Santiago de Compostela by Zarateman (CC0), Alhambra by Nic McPhee (CC BY-SA 2.0).</p>
+<p class="image-credits">Course images, from Wikimedia Commons: k-means clustering by Cosmia Nebula (CC BY-SA 4.0), random forest by Hgkim0331 (CC BY-SA 4.0), Python screen by MikeRun (CC BY-SA 4.0), Robonaut by Robert Markowitz, NASA (public domain), QGIS screenshot by Emvee (CC BY 4.0), Sentinel-2 image of Brazil by ESA/Copernicus (CC BY-SA 3.0 IGO), NDVI map by Tomchenko Olha (CC BY 4.0), savanna by BMKME (CC BY-SA 4.0), Santiago de Compostela by Zarateman (CC0), Alhambra by Nic McPhee (CC BY-SA 2.0).</p>
