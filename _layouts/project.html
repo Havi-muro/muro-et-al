@@ -5,6 +5,9 @@ layout: default
 <main class="project-page">
   <header class="project-header">
     <h1 class="project-title">{{ page.title }}</h1>
+    {% if page.read_time %}
+      <p class="project-meta">{% include read-time.html %}</p>
+    {% endif %}
     {% if page.authors %}
       <p class="project-authors">{{ page.authors }}</p>
     {% endif %}
